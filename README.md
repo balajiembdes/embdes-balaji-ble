@@ -1,4 +1,4 @@
 embdes-balaji-ble
 =================
 
-source code for current ble project
+source code for ble project's
